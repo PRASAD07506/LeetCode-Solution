@@ -36,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0575-distribute-candies](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0575-distribute-candies) |
 | [0705-design-hashset](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0706-design-hashmap) |
 ## Hash Table
 |  |
 | ------- |
+| [0575-distribute-candies](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0575-distribute-candies) |
 | [0705-design-hashset](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0706-design-hashmap) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
