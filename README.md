@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0441-arranging-coins) |
 | [2427-number-of-common-factors](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,4 +113,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
