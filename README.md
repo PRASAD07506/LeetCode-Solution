@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0706-design-hashmap) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0441-arranging-coins) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
