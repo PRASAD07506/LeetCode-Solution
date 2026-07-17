@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
+| [0416-partition-equal-subset-sum](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0495-teemo-attacking](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0495-teemo-attacking) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0575-distribute-candies) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
