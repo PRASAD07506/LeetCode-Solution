@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0416-partition-equal-subset-sum) |
 ## Prefix Sum
 |  |
