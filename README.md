@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -127,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
