@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0264-ugly-number-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0575-distribute-candies) |
 | [0705-design-hashset](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0705-design-hashset) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0168-excel-sheet-column-title) |
 | [0263-ugly-number](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [0342-power-of-four](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0441-arranging-coins) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0416-partition-equal-subset-sum) |
 ## Prefix Sum
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
