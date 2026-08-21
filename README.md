@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0541-reverse-string-ii) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Counting
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0541-reverse-string-ii) |
 ## Sorting
 |  |
