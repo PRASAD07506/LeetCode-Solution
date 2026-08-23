@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0541-reverse-string-ii) |
+| [1927-sum-game](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1927-sum-game) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Counting
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0492-construct-the-rectangle) |
+| [1927-sum-game](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -183,8 +185,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0409-longest-palindrome) |
+| [1927-sum-game](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1927-sum-game) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
