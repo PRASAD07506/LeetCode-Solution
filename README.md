@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0409-longest-palindrome) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [0342-power-of-four](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0342-power-of-four) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0541-reverse-string-ii) |
@@ -194,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1927-sum-game) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
