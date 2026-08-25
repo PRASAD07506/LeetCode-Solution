@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0706-design-hashmap) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
