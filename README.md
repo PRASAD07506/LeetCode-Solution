@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0168-excel-sheet-column-title) |
 | [0387-first-unique-character-in-a-string](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0263-ugly-number) |
@@ -144,11 +146,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0495-teemo-attacking) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0338-counting-bits](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0342-power-of-four) |
 ## Recursion
