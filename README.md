@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0492-construct-the-rectangle) |
 | [1927-sum-game](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1927-sum-game) |
+| [1952-three-divisors](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -162,10 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -207,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0202-happy-number) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
