@@ -225,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1952-three-divisors) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
