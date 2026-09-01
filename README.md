@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0367-valid-perfect-square](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0441-arranging-coins) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0238-product-of-array-except-self](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0416-partition-equal-subset-sum](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -238,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0196-delete-duplicate-emails) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
