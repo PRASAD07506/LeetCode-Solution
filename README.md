@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0724-find-pivot-index) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
