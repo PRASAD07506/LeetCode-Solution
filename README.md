@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0495-teemo-attacking](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0495-teemo-attacking) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0541-reverse-string-ii) |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
 |  |
 | ------- |
