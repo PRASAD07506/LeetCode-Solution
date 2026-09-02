@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0575-distribute-candies) |
 | [0705-design-hashset](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0706-design-hashmap) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0541-reverse-string-ii) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1927-sum-game) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Counting
