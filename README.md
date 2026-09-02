@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0705-design-hashset) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0561-array-partition) |
 ## Sliding Window
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0561-array-partition) |
 | [1927-sum-game](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1927-sum-game) |
 ## Queue
 |  |
@@ -277,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
