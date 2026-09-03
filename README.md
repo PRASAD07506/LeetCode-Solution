@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0575-distribute-candies) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0561-array-partition) |
 ## Sliding Window
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
+| [0506-relative-ranks](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0506-relative-ranks) |
 ## Greedy
 |  |
 | ------- |
