@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0584-find-customer-referee) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Divide and Conquer
 |  |
 | ------- |
