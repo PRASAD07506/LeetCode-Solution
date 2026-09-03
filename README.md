@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
