@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0219-contains-duplicate-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0125-valid-palindrome) |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0561-array-partition) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
