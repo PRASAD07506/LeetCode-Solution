@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0724-find-pivot-index) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0575-distribute-candies) |
 | [0705-design-hashset](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0706-design-hashmap) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0724-find-pivot-index) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
 | ------- |
