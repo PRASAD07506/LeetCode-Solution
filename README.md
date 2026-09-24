@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
