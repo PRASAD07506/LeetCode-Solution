@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
+| [0055-jump-game](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0264-ugly-number-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0338-counting-bits) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0561-array-partition) |
