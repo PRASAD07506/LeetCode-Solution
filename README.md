@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1927-sum-game) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2409-count-days-spent-together](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/3870-count-commas-in-range) |
