@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0198-house-robber) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0338-counting-bits](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0342-power-of-four) |
