@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0495-teemo-attacking](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0506-relative-ranks) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0441-arranging-coins) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0492-construct-the-rectangle) |
 | [1927-sum-game](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1952-three-divisors) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0561-array-partition) |
 ## Sliding Window
