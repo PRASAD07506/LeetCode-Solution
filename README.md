@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0492-construct-the-rectangle) |
+| [0507-perfect-number](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/0507-perfect-number) |
 | [1927-sum-game](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PRASAD07506/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
